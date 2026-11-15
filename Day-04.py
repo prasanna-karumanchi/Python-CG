@@ -85,6 +85,5 @@ print(str1.isalnum())
 print("hdbfgihAKJSFNJDXN234659".isalnum())
 print("235468".isdigit())
 print(str1.count("trouble"))
-
 words = str1.split()
 print(len(words))'''
